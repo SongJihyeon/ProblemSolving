@@ -1,4 +1,5 @@
-//프로그래머스 스킬트리
+//프로그래머스 스킬트리 
+//C++
 
 #include <string>
 #include <vector>

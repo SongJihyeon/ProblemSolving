@@ -1,4 +1,5 @@
 //백준 4344번 평균은 넘겠지
+//C++
 
 #include <iostream>
 #include <algorithm>
